@@ -1,0 +1,121 @@
+a:hover {
+	background-color: gray;
+}
+
+#about {
+	margin:0;
+	background-color:#343a40;
+	padding-bottom: 40px;
+}
+
+.heading {
+	color:blue;
+	padding:40px;
+	text-align: center;
+}
+
+.ieee-img {
+	height: 200px;
+	width: 200px;
+	margin-left: 43%;
+	margin-bottom: 30px;
+}
+
+.about {
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: center;
+	padding:20px;
+	color:#fff;
+}
+.history {
+	padding: 20px;
+	color:blue;
+	text-align: center;
+}
+.his {
+	color:#fff;
+	padding:10px;
+	text-align: center;
+}
+
+#event {
+	margin:0;
+	background-color: #f8f9fa;
+	padding-bottom: 40px;
+}
+
+.anim {
+	height:600px;
+	width:50%;
+}
+.cap {
+	color:#fff;
+}
+
+#contact {
+	margin:0;
+	background-color:#343a40;
+	padding-bottom: 40px;
+	padding-top: 40px;
+}
+.container {
+    padding: 0.01em 16px;
+    text-align: center;
+}
+.add{
+	padding-right: 0%;
+	padding-top:30px;
+	padding-bottom: 30px;
+
+}
+.container1 {
+	padding: 0.01em 16px;
+}
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    }
+ .opacity, .hover-opacity:hover {
+    opacity: 0.60;
+}
+.margin-bottom {
+    margin-bottom: 16px!important;
+    }
+
+#register {
+	margin:0;
+	height:200px;
+	padding:50px;
+	color:#000;
+	text-align: center;
+}
+
+#registration {
+	margin:0;
+background-color:#fff;
+	
+	padding:40px;
+	
+}
+.ieee-1{
+	height: 150px;
+	width:150px;
+
+}
+.reg {
+	text-align: center;
+}
+
+.reg-form{
+	padding-top: 40px;
+	margin-left: 30%;
+	max-width: 600px;
+	padding-bottom: 40px;
+}
+.success {
+	text-align: center;
+	color:#343a40;
+}
